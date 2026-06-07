@@ -1,1 +1,1 @@
-It is easy to supply these mardown files to an LLM and generate the code for whatever stack. I'd probably opt for C and use something like an arduino as a proof-of-concept for the device hardware and implementation.
+It is easy to supply these mardown files to an LLM and generate the code for whatever stack. I'd probably opt for C and use something like an Raspberry Pi as a proof-of-concept for the device hardware and implementation.
